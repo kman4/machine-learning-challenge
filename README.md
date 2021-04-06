@@ -1,2 +1,2 @@
 # machine-learning-challenge
-![Image](https://www.newyorkhotels.org//img_new/top_banner2.png)
+![Image](https://github.com/kman4/machine-learning-challenge/image/.png)
