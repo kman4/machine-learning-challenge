@@ -1,2 +1,2 @@
 # machine-learning-challenge
-![Image](https://github.com/kman4/machine-learning-challenge/image/.png)
+![Image](https://github.com/kman4/machine-learning-challenge/image/exoplanets.jpg)
